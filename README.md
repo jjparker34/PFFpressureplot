@@ -1,5 +1,7 @@
 # PFFpressureplot
 2022 NFL and College PFF clean and pressure grades for QBs, with league averages and Min. Dropback(to get rid of non-Qbs).
+Shoutout Tim Bryan for teaching me more than Baylor. https://github.com/tbryan2 
+
 
 Looks like this!:
 
